@@ -1,5 +1,5 @@
-cd hazel_rust
-cargo build
+cd greengine
+cargo build --workspace
 cd ../sandbox
 cargo build
 cd ..

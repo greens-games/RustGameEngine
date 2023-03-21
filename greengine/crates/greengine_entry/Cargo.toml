@@ -1,5 +1,5 @@
 [package]
-name = "hazel_rust"
+name = "greengine_entry"
 version = "0.1.0"
 edition = "2021"
 

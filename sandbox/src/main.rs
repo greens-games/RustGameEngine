@@ -1,6 +1,5 @@
-use hazel_rust:: {add, run};
-
+use greengine::prelude::*;
 fn main() {
-    println!("{}", add(1,2));
+    run();
     println!("Hello, world!");
 }
